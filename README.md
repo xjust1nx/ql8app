@@ -1,4 +1,4 @@
-# QL7
+# QL
 This is a college tech fest application
 Application built as part of techfest for posting
 *results
